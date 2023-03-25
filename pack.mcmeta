@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "description": "Zero Edition Pack",
+        "pack_format": 10
+    },
+    "language": {
+        "ze_mi": {
+            "name": "Zero",
+            "region": "Minecraft",
+            "bidirectional": false
+        }
+    }
+}
